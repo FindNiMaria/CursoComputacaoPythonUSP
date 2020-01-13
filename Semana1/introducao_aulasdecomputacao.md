@@ -10,9 +10,14 @@ A maior parte das leituras são links para sessões específicas do livro intera
 
 Para saber mais sobre computadores e computação:
 
-Breve história da computação ( https://www.ime.usp.br/~macmulti/historico/ )
-O que é um Computador ( https://pt.wikipedia.org/wiki/Computador )
-e para começar a conhecer a linguagem de programação Python ( https://panda.ime.usp.br/pensepy/static/pensepy/01-Introducao/introducao.html )
+Breve história da computação 
+( https://www.ime.usp.br/~macmulti/historico/ )
+
+O que é um Computador :
+( https://pt.wikipedia.org/wiki/Computador )
+
+e para começar a conhecer a linguagem de programação Python :
+( https://panda.ime.usp.br/pensepy/static/pensepy/01-Introducao/introducao.html )
 
 ###Exercícios
 

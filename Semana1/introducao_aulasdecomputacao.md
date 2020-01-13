@@ -1,15 +1,19 @@
-Introdução
+## Introdução
+
+
 As leituras e vídeos sugeridos aqui, em geral, contém (muito?) mais tópicos do que os que vistos durante a aula. Os tópicos não vistos na aula serão cobertos em algum momento mais oportuno.
 
 A maior parte das leituras são links para sessões específicas do livro interativo Como pensar como um Cientista da Computação.
 
-Tópicos
+###Tópicos
+
 Para saber mais sobre computadores e computação:
 Breve história da computação
 O que é um Computador
 e para começar a conhecer a linguagem de programação Python
 Capítulo 1: O Caminho do Programa;
-Exercícios
+###Exercícios
+
 Se você tem acesso a um computador, instale o Python em sua máquina seguindo as instruções em: Como instalar Python em seu computador.
 
 Abra o ambiente de desenvolvimento de programas em Python chamado IDLE, e uma janela como a abaixo deve aparecer.
